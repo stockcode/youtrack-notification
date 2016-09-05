@@ -1,1 +1,1 @@
-# youtrack-notification
+# youtrack-notifier
